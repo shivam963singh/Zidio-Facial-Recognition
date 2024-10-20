@@ -6,3 +6,5 @@ And Haarcascade Algorithm is used for Analysisng Faces
  to run this program you have to install Open-cv library,pickle and numpy 
  open-cv - pip install opencv-python
  numpy - pip install numpy
+ win32 - pip install pywin32
+ sklearn - pip install scikit-learn
